@@ -73,3 +73,7 @@ gem 'bootstrap'
 gem 'jquery-rails'
 
 gem 'popper_js'
+
+gem 'geocoder'
+
+gem 'figaro'
